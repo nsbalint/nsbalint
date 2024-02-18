@@ -1,4 +1,8 @@
-### Hi there 👋
+### 'PATAK'
+
+CURRENTLY STUDYING COMPUTER SCIENCE BSC AT UNIVERSITY OF MISKOLC
+PLANNING TO DO MY VERY OWN PORTFOLIO.
+ALSO INTERESTED IN 3D DESIGN, VIDEO EDITING, BEATMAKING AND MUCH MORE..
 
 <!--
 **nsbalint/nsbalint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
